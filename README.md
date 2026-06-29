@@ -19,7 +19,7 @@ I'm a Computer Science student at **ESGI Toulouse**. My profile sits between **w
 
 Alongside my studies I work as a freelance **Growth Partner**: I build custom websites and internal tools for local craftsmen and restaurants, and put them in production.
 
-I'm currently looking for an **apprenticeship / alternance** — Toulouse, Strasbourg, or remote-hybrid.
+I'm currently looking for a **web-developer apprenticeship / alternance starting September 2026** (BUT MMI) — Strasbourg area, Toulouse, or remote-hybrid.
 
 ---
 
@@ -27,6 +27,7 @@ I'm currently looking for an **apprenticeship / alternance** — Toulouse, Stras
 
 - Frontend with **Next.js**, **TypeScript** and **TailwindCSS**
 - Backends and tooling with **Python**, **FastAPI** and **Streamlit**
+- **AI-assisted development** — Claude Code & LLM APIs, RAG and agentic workflows
 - Shipping to production on **Vercel** (PostgreSQL / Supabase)
 - Learning offensive security & **IAM**
 
